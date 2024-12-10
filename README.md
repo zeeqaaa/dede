@@ -12,7 +12,7 @@ This project contains a Spring Boot application that calculates checksums, persi
 
 2. Build and start the Docker containers:
     ```bash
-    docker-compose up --build
+    docker-compose up 
     ```
 
 3. Access the application at `http://localhost:8080`.
@@ -21,7 +21,3 @@ This project contains a Spring Boot application that calculates checksums, persi
 - `POST /api/checksum`: Calculate and store the checksum.
 - `GET /api/entries`: List all stored entries.
 
-## Database Credentials
-- User: `user`
-- Password: `password`
-- Database: `checksumdb`
