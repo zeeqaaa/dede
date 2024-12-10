@@ -1,0 +1,6 @@
+com\example\checksum\ChecksumController.class
+com\example\checksum\ChecksumEntry.class
+com\example\checksum\ChecksumApplication.class
+com\example\checksum\ChecksumRepository.class
+com\example\checksum\ChecksumService.class
+com\example\checksum\ChecksumUtil.class
